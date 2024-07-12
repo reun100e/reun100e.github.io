@@ -13,13 +13,6 @@
   display: none;
 }
 
-/* Hide Jellyfin header */
-#loginPage .headerTabs,
-.layout-mobile #itemDetailPage .itemName.infoText.parentNameLast {
-  display: block;
-}
-
-
 #loginPage .padded-left.padded-right.padded-bottom-page {
   margin-left: auto;
   margin-right: auto;
