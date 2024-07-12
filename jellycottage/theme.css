@@ -14,17 +14,3 @@
 @import url('https://reun100e.github.io/jellycottage/overlayprogress.css');
 @import url('https://reun100e.github.io/jellycottage/hoverglow.css');
 @import url('https://reun100e.github.io/jellycottage/glassy.css');
-
-
-
-:root {--rounding: 12px;}
-
-/*Style backdrop*/
-.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}
-
-/*Login background*/
-#loginPage {background: url(https://i.imgur.com/9vL4iNf.png) !important;}
-
-/*Accent and roundingd*/
-:root {--accent: 98, 121, 205;}
-:root {--rounding: 12px;}
