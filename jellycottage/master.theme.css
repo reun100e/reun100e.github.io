@@ -1,0 +1,27 @@
+@import url('https://reun100e.github.io/jellycottage/font.css');
+@import url('https://reun100e.github.io/jellycottage/fixes.css');
+@import url('https://reun100e.github.io/jellycottage/base.css');
+@import url('https://reun100e.github.io/jellycottage/accentlist.css');
+@import url('https://reun100e.github.io/jellycottage/rounding.css');
+@import url('https://reun100e.github.io/jellycottage/smallercast.css');
+@import url('https://reun100e.github.io/jellycottage/episodes_compactlist.css');
+@import url('https://reun100e.github.io/jellycottage/header_transparent-dashboard.css');
+@import url('https://reun100e.github.io/jellycottage/login_frame.css');
+@import url('https://reun100e.github.io/jellycottage/fields_noborder.css');
+@import url('https://reun100e.github.io/jellycottage/indicator_corner.css');
+@import url('https://reun100e.github.io/jellycottage/colorful.css');
+@import url('https://reun100e.github.io/jellycottage/title_simple.css');
+@import url('https://reun100e.github.io/jellycottage/progress.css');
+@import url('https://reun100e.github.io/jellycottage/hoverglow.css');
+@import url('https://reun100e.github.io/jellycottage/glassy.css');
+
+
+
+:root {--rounding: 12px;}
+
+/*Style backdrop*/
+.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}
+
+/*Accent and roundingd*/
+:root {--accent: 98, 121, 205;}
+:root {--rounding: 12px;}
